@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Saathath.github.io/SimpleForm",
+  "homepage": "https://Saathath.github.io/AdviceGenerateApp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
